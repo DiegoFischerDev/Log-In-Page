@@ -11,3 +11,5 @@ To see the project [click here](https://diegofischerdev.github.io/Log-In-Page/).
 
 * HTML
 * CSS
+
+🎨  Designer from [Pinspiry.com](https://pinspiry.com/forms-ui-kit-free-psd/)
